@@ -5,7 +5,7 @@ description:        "The Law Offices of William Groble are ready to assist you "
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/lawlogo.png'
-background:         'assets/img/Screen Shot 2018-04-04 at 9.30.40 AM.png'
+background:         'assets/img/lawoffice.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://taylantatli.github.io/Moon
