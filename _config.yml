@@ -8,7 +8,7 @@ logo:               'assets/img/lawlogo.png'
 background:         'assets/img/lawoffice.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                "https://groblelaw.github.io/GrobleLaw"
+url:                "https://groblelaw.github.io"
 
 # Jekyll
 permalink:          /:title/
