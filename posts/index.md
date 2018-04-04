@@ -28,7 +28,7 @@ comments: false
 </div>
 <style>
 	#contact-container{
-		width: 75%;
+		width: 100%;
 	}
 	
 </style>
