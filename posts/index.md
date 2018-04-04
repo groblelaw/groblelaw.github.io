@@ -26,3 +26,8 @@ comments: false
 	</ul>
 </form>
 </div>
+<style>
+	.actions{
+		padding: 0;
+	}
+</style>
