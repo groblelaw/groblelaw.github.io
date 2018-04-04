@@ -28,7 +28,12 @@ comments: false
 </div>
 <style>
 	#contact-container{
-		width: 100%;
+		input[type=text] {
+			width: 100%;
+		}
+		input {
+			border-radius: 25px;
+		}
 	}
 	
 </style>
