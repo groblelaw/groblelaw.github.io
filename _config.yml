@@ -1,5 +1,5 @@
 # Site
-title:              The Law offices of William Groble
+title:              GrobleLaw
 bio:                'Benefit from our experience.'
 description:        "The Law Offices of William Groble are ready to assist you "
 reading_time:       true
@@ -8,7 +8,7 @@ logo:               'assets/img/lawlogo.png'
 background:         'assets/img/lawoffice.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                "https://github.com/groblelaw/groblelaw.github.io"
+url:                "https://groblelaw.github.io/GrobleLaw"
 
 # Jekyll
 permalink:          /:title/
