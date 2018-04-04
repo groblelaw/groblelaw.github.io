@@ -1,11 +1,9 @@
 ---
-layout: project
-title: All Projects
+layout: page
+title: About Bill Groble
 excerpt: "A List of Projects"
 comments: false
 ---
-
-<center>About Bill Groble</center>
 
 {% capture images %}
     https://user-images.githubusercontent.com/9058629/38317732-5d82c266-37f3-11e8-826a-4302fd279f73.jpeg
