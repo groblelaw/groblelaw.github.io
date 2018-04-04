@@ -1,7 +1,7 @@
 ---
-layout: post-list
+layout: page
 title: Contact Us
-excerpt: "A List of Posts"
+excerpt: "Contact Us"
 comments: false
 ---
 
