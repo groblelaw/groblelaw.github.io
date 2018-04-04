@@ -5,7 +5,7 @@ excerpt: "Contact Us"
 comments: false
 ---
 <div id="contact-container" align="center">
-<form method="post" action="https://formspree.io/wgroble@tulane.edu" method="POST">
+<form method="post" action="https://formspree.io/william@groblelaw.com" method="POST">
 	<div class="field half first">
 		<label for="name">Name</label><br />
 		<input type="text" name="name" id="name" style="width: 100%; border-radius: 2px;"/>
