@@ -8,15 +8,15 @@ comments: false
 <form method="post" action="https://formspree.io/wgroble@tulane.edu" method="POST">
 	<div class="field half first">
 		<label for="name">Name</label><br />
-		<input type="text" name="name" id="name" />
+		<input type="text" name="name" id="name" style="width: 100%; border-radius: 2px;"/>
 	</div>
 	<div class="field half">
 		<label for="email">Email</label><br />
-		<input type="text" name="_replyto" id="email" />
+		<input type="text" name="_replyto" id="email" style="width: 100%; border-radius: 2px;"/>
 	</div>
 	<div class="field">
 		<label for="message">Message</label><br />
-		<textarea name="message" id="message" rows="5"></textarea>
+		<textarea name="message" id="message" rows="5" style="width: 100%; border-radius: 2px;"></textarea>
 	</div>
 	<ul class="actions">
 	<br />
@@ -26,15 +26,3 @@ comments: false
 	</ul>
 </form>
 </div>
-<style>
-	#contact-container{
-
-	}
-	input[type=text] {
-		width: 100%;
-	}
-	input {
-		border-radius: 25px;
-	}
-	
-</style>
