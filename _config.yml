@@ -1,6 +1,11 @@
 # Site
 title:              GrobleLaw
 bio:                '18 West Stow Road,<br />Marlton, NJ 08053, USA <br />(856) 817-1242 (phone) <br />(856) 817-1243 (fax) <br />william@groblelaw.com'
+address:            '18 West Stow Road,<br />Marlton, NJ 08053, USA'
+address_link:       'https://goo.gl/maps/mSXpLhSV5P22'
+phone_display:      '(856) 817-1242' #This is what the user will actually see on the site 
+phone_link:         '1-856-817-1242' #This is just the phone number the way the site can understand it to link to a call
+fax:                '(856) 817-1243'
 description:        "The Law Offices of William Groble are ready to assist you "
 reading_time:       true
 words_per_minute:   200
