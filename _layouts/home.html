@@ -28,9 +28,9 @@ layout: compress
                         <a href="{{ site.url }}">
                         	<!--<p style="font-size:1rem;font-weight:300">{{ site.bio }}</p>-->
                         	<!--18 West Stow Road,<br />Marlton, NJ 08053, USA <br />(856) 817-1242 (phone) <br />(856) 817-1243 (fax) <br />william@groblelaw.com-->
-                        	<p style="font-size:1rem;font-weight:300"><a href="https://goo.gl/maps/mSXpLhSV5P22">18 West Stow Road, <br />Marlton, NJ 08053, USA</a></p>
-                        	<p style="font-size:1rem;font-weight:300"><a href="tel:1-856-817-1242">(856) 817-1242 (phone)</a><br />(856) 817-1243 (fax)</p>
-                        	<p style="font-size:1rem;font-weight:300"><a href="mailto:william@groblelaw.com">william@groblelaw.com</a></p>
+                        	<p style="font-size:1rem;font-weight:300"><a href="{{ site.address_link }}">{{ site.address }}</a></p>
+                        	<p style="font-size:1rem;font-weight:300"><a href="{{ site.phone_link }}">{{ site.phone }} (phone)</a><br />{{ site.fax }} (fax)</p>
+                        	<p style="font-size:1rem;font-weight:300"><a href="mailto:{{ social.email }}">{{ social.email }}</a></p>
 			            </a>
                     </h3>
                     {% include social-links.html %}
